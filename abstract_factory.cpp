@@ -103,3 +103,13 @@ int main(){
 
     return 0;
 }
+
+/*
+output:
+
+=================
+This is coffee!
+This is noodle!
+
+
+*/
